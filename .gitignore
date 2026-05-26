@@ -1,0 +1,5 @@
+.env
+*.db
+backend/ml/model.pkl
+node_modules/
+__pycache__/
